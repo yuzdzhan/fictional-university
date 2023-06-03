@@ -1,2 +1,1 @@
 # fictional-university
-# fictional-university
