@@ -11,10 +11,10 @@ function university_post_types()
       'public' => true,
       'labels' => array(
         'name' => 'Events',
-        'add_new_item' => 'add new event',
-        'edit_item' => 'edit event',
-        'all_items' => 'all events',
-        'singular_name' => 'event'
+        'add_new_item' => 'Add new event',
+        'edit_item' => 'Adit event',
+        'all_items' => 'All events',
+        'singular_name' => 'Event'
       ),
       'menu_icon' => 'dashicons-calendar'
     ));
@@ -29,10 +29,10 @@ function university_post_types()
       'public' => true,
       'labels' => array(
         'name' => 'Programs',
-        'add_new_item' => 'add new program',
-        'edit_item' => 'edit program',
-        'all_items' => 'all programs',
-        'singular_name' => 'program'
+        'add_new_item' => 'Add new program',
+        'edit_item' => 'Edit program',
+        'all_items' => 'All programs',
+        'singular_name' => 'Program'
       ),
       'menu_icon' => 'dashicons-awards'
     ));
