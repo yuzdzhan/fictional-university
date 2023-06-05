@@ -69,5 +69,5 @@ Thumbs.db
 !composer.json
 
 # track these themes
-wp-content/themes/fictional-university-theme/build/
 !wp-content/themes/fictional-university-theme
+wp-content/themes/fictional-university-theme/build/
