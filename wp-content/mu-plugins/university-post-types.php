@@ -12,7 +12,7 @@ function university_post_types()
       'labels' => array(
         'name' => 'Events',
         'add_new_item' => 'Add new event',
-        'edit_item' => 'Adit event',
+        'edit_item' => 'Edit event',
         'all_items' => 'All events',
         'singular_name' => 'Event'
       ),
